@@ -3,7 +3,7 @@
         "host": "berkerpostgres1.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "berkeradmin1",
-        "password": "berkeradmin1",
+        "password": "Berkus98*",
         "ssl": "require"
     }
 }
